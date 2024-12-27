@@ -1,0 +1,21 @@
+VERSION="2.4.1"
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+
+ACCOUNTS=[
+  "GD4A3MLFQI44I4RUNW2VFNDE63JN2ZG3R5S3RTTQV7H5YAAOHH2SVYRP"
+]
+
+[DOCUMENTATION]
+ORG_NAME="IDX"
+ORG_URL="https://idx-token.indexhosting.com.br"
+ORG_LOGO="https://idx-token.indexhosting.com.br/image/logo.png"
+ORG_DESCRIPTION="IDX is a token created for efficient and decentralized payment exchanges."
+ORG_GITHUB="INDEXHOSTING"
+ORG_OFFICIAL_EMAIL="mail@idx-token.indexhosting.com.br"
+
+[[CURRENCIES]]
+code="IDX"
+issuer="GD4A3MLFQI44I4RUNW2VFNDE63JN2ZG3R5S3RTTQV7H5YAAOHH2SVYRP"
+name="IDX"
+desc="The IDX token is used for fast and secure payments."
+image="https://idx-token.indexhosting.com.br/image/logo.png"
